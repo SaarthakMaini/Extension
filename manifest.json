@@ -1,0 +1,10 @@
+{
+"manifest_version": 2,
+"name": "Saarthak is fantastic",
+"description": "Saarthak is fantastic",
+"version": "1.0",
+"browser_action": {
+"default_icon": "twitterbanner.jpg",
+"default_popup": "window.html"
+}
+}
